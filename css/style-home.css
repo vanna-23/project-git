@@ -1,13 +1,33 @@
-body{
+body {
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.A{
+
+.A {
     display: flex;
     flex-direction: row;
     gap: 24px;
     justify-content: end;
     padding: 32px;
     margin-right: 100px;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
